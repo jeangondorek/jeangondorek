@@ -1,11 +1,11 @@
-<h3> :sunglasses: &nbsp;Sobre mim </h3>
+<h3> 😎 &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Ciências da Computação** na <a href="https://www.uffs.edu.br">Universidade Federal da Fronteira Sul</a>.
 - 💼 &nbsp; Trabalhando como **Suporte Técnico** na <a href="https://www.mhnet.com.br">Mhnet Telecom</a>
 - 🎮 &nbsp; Gosto de alguns games &nbsp; <a href="https://steamcommunity.com/id/mrpicklesjc/home/"><img src="https://img.shields.io/badge/-Steam-333333?style=flat&logo=steam"/></a>
 - 🌱 &nbsp; Procurando aprender mais sobre &nbsp;  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-<h4>:desktop_computer: PC :desktop_computer:</h4>
+<h4>🖥️ Computador</h4>
 
 - Processador: Intel Core i5-9400F Coffee Lake
 - Placa de Vídeo: Gigabyte NVIDIA GeForce GTX 1660 OC 6G
@@ -19,9 +19,9 @@
 - Monitor: Gamer Acer Kg241q-s 23,6" 165hz, 0.5ms
 - Monitor: Acer V246HL 23.6", 75hz, 5ms
 
-<h3> :rocket: &nbsp;Minhas Skills em Treinamento </h3>
+<h3> 🚀 &nbsp;Minhas Skills em Treinamento </h3>
 
-<h6> :desktop_computer: &nbsp;Atualmente brincando com Lua para servidores FIVEM de GTA 5 RolePlay</h6>
+<h6> 	⌨️ &nbsp;Atualmente brincando com Lua para servidores FIVEM de GTA 5 RolePlay</h6>
 
 **Aplicações e Dados**
 
@@ -52,7 +52,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> 🌎 &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Jean Gondorek](https://img.shields.io/badge/-jeangondorek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-gondorek-15477a163/)](https://www.linkedin.com/in/jean-gondorek-15477a163/)
 [![Gmail Badge](https://img.shields.io/badge/-jeangondorek73@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeangondorek73@gmail.com)](mailto:jeangondorek73@gmail.com)
