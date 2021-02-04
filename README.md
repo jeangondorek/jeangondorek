@@ -3,6 +3,8 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Ciências da Computação** na <a href="https://www.uffs.edu.br">Universidade Federal da Fronteira Sul</a>.
 - 💼 &nbsp; Trabalhando como **Suporte Técnico** na <a href="https://www.mhnet.com.br">Mhnet Telecom</a>
+- Gosto de alguns games <a href="https://steamcommunity.com/id/mrpicklesjc/home/"><img src="https://img.shields.io/badge/-Steam-333333?style=flat&logo=steam"/></a>
+
 - 🌱 &nbsp; Procurando aprender mais sobre &nbsp;  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
