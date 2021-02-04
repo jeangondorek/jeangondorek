@@ -1,10 +1,8 @@
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :sunglasses: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Ciências da Computação** na <a href="https://www.uffs.edu.br">Universidade Federal da Fronteira Sul</a>.
 - 💼 &nbsp; Trabalhando como **Suporte Técnico** na <a href="https://www.mhnet.com.br">Mhnet Telecom</a>
 - 🎮 &nbsp; Gosto de alguns games &nbsp; <a href="https://steamcommunity.com/id/mrpicklesjc/home/"><img src="https://img.shields.io/badge/-Steam-333333?style=flat&logo=steam"/></a>
-
 - 🌱 &nbsp; Procurando aprender mais sobre &nbsp;  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
