@@ -67,4 +67,3 @@
 ![GitHub forks](https://img.shields.io/github/forks/jeangondorek/jeangondorek?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/github/issues/jeangondorek/jeangondorek?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/github/issues-pr/jeangondorek/jeangondorek?style=for-the-badge)
-![Top language](https://img.shields.io/github/languages/count/jeangondorek/jeangondorek?color=green&label=Top%20language&style=for-the-badge)
