@@ -61,6 +61,7 @@
 [![GitHub Jean Gondorek]( https://img.shields.io/github/followers/jeangondorek?label=follow&style=social)](https://github.com/jeangondorek/)
 
 <h5>Informações sobre esse repositório</h5>
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/jeangondorek/jeangondorek?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/jeangondorek/jeangondorek?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/jeangondorek/jeangondorek?style=for-the-badge)
