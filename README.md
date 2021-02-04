@@ -7,11 +7,11 @@
 - 🎮 &nbsp; Gosto de alguns games &nbsp; <a href="https://steamcommunity.com/id/mrpicklesjc/home/"><img src="https://img.shields.io/badge/-Steam-333333?style=flat&logo=steam"/></a>
 - 🌱 &nbsp; Procurando aprender mais sobre &nbsp;  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jeangondorek/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/jeangondorek/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/jeangondorek/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jeangondorek/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jeangondorek/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/jeangondorek/jeangondorek?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/jeangondorek/jeangondorek?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/jeangondorek/jeangondorek?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jeangondorek/jeangondorek?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jeangondorek/jeangondorek?style=for-the-badge)
 
 <h4>🖥️ Computador</h4>
 
