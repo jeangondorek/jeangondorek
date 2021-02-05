@@ -61,7 +61,7 @@
 
 <br/>
 
-<h5>Informações sobre esse repositório</h5>
+<h5>Informações sobre este repositório</h5>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/jeangondorek/jeangondorek?color=blue&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/jeangondorek/jeangondorek?color=blue&style=for-the-badge)
