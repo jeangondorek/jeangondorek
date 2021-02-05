@@ -2,8 +2,8 @@
 
 <h3> 😎 &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Estudando **Ciências da Computação** na <a href="https://www.uffs.edu.br">Universidade Federal da Fronteira Sul</a>.
-- 💼 &nbsp; Trabalhando como **Suporte Técnico** na <a href="https://www.mhnet.com.br">Mhnet Telecom</a>
+- 🎓 &nbsp; Estudando **Ciências da Computação** na <a href="https://www.uffs.edu.br"> ![UFFS](https://img.shields.io/badge/-Universidade%20Federal%20da%20Fronteira%20Sul-darkgreen) </a>
+- 💼 &nbsp; Trabalhando como **Suporte Técnico** na <a href="https://www.mhnet.com.br"> ![Mhnet](https://img.shields.io/badge/-Mhnet%20Telcom-blue) </a>
 - 📋 &nbsp; Acesse meu <a href="https://docs.google.com/document/d/12_Pu0ROqVXOTH1RyCg4dfPUY4VTbEjTYg7VppOyNAso/edit?usp=sharing">Currículo</a>
 - 🎮 &nbsp; Gosto muito de games &nbsp; <a href="https://steamcommunity.com/id/mrpicklesjc/home/"><img src="https://img.shields.io/badge/-Steam-333333?style=flat&logo=steam"/></a>
 - 🌱 &nbsp; Procurando aprender mais sobre &nbsp;  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=0071CC)
