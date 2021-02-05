@@ -48,9 +48,10 @@
 
 <h3> 🌎 &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Jean Gondorek](https://img.shields.io/badge/-jeangondorek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-gondorek-15477a163/)](https://www.linkedin.com/in/jean-gondorek-15477a163/)
-[![Gmail Badge](https://img.shields.io/badge/-jeangondorek73@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeangondorek73@gmail.com)](mailto:jeangondorek73@gmail.com)
-[![GitHub Jean Gondorek]( https://img.shields.io/github/followers/jeangondorek?label=follow&style=social)](https://github.com/jeangondorek/)
+[![Linkedin](https://img.shields.io/badge/-jeangondorek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-gondorek-15477a163/)](https://www.linkedin.com/in/jean-gondorek-15477a163/)
+[![Gmail](https://img.shields.io/badge/-jeangondorek73@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeangondorek73@gmail.com)](mailto:jeangondorek73@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/jeangondorek?label=follow&style=social)](https://github.com/jeangondorek/)
+[![Twitch](https://img.shields.io/badge/-jc_team_-006bed?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/jc_team_)](https://www.twitch.tv/jc_team_)
 
 <br/>
 
