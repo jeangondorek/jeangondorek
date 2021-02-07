@@ -56,8 +56,7 @@
 <br/>
 
 <a href="https://github.com/jeangondorek/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeangondorek&theme=onedark&show_icons=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeangondorek&hide=html&layout=compact&theme=onedark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeangondorek&theme=onedark&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeangondorek&langs_count=8&theme=onedark"/>
 </a>
 
