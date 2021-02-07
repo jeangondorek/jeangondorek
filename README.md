@@ -71,5 +71,4 @@
 ![Bitbucket open pull requests](https://img.shields.io/github/issues-pr/jeangondorek/jeangondorek?color=limegreen&style=for-the-badge)
 ![Twitch](https://img.shields.io/twitch/status/jc_team_?style=for-the-badge)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangondorek&repo=jeangondorek&theme=onedark)](https://github.com/jeangondorek/jeangondorek)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeangondorek&exclude_repo=FormularioFivem,Concessionaria-fivem,hudfivem&theme=onedark)](https://github.com/jeangondorek/jeangondorek)
