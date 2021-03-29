@@ -69,7 +69,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/jeangondorek/jeangondorek?color=blue&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/jeangondorek/jeangondorek?color=blue&style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/github/issues/jeangondorek/jeangondorek?color=limegreen&style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/github/issues-pr/jeangondorek/jeangondorek?color=limegreen&style=for-the-badge)
 ![Twitch](https://img.shields.io/twitch/status/jc_team_?style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeangondorek&exclude_repo=FormularioFivem,Concessionaria-fivem,hudfivem&theme=onedark)](https://github.com/jeangondorek/jeangondorek)
