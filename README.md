@@ -20,7 +20,7 @@
 - **Mouse:** Gamer Redragon Sniper RGB 12400DPI 9 botões, M801-RGB
 - **Teclado:** Redragon Mitra Switch Azul, K551, Mecânico
 - **Monitor:** Gamer Acer Kg241q-s 23,6" 165hz, 0.5ms
-- **Monitor:** Acer V246HL 23.6", 75hz, 5ms
+- **Monitor:** Acer V246HL 23.6", 60hz, 5ms
 
 <h3> 🚀 &nbsp;Minhas Skills em Treinamento </h3>
 
