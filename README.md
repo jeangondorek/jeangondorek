@@ -22,10 +22,6 @@
 - **Monitor:** Gamer Acer Kg241q-s 23,6" 165hz, 0.5ms
 - **Monitor:** Acer V246HL 23.6", 60hz, 5ms
 
-<h3> 🚀 &nbsp;Minhas Skills em Treinamento </h3>
-
-<h6> 	⌨️ &nbsp;Atualmente brincando com Lua para servidores FIVEM de GTA 5 RolePlay</h6>
-
 **Aplicações e Dados**
 
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
