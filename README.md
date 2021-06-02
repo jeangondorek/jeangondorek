@@ -3,7 +3,7 @@
 <h3> 😎 &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Ciências da Computação** na <a href="https://www.uffs.edu.br"> ![UFFS](https://img.shields.io/badge/-Universidade%20Federal%20da%20Fronteira%20Sul-darkgreen) </a>
-- 💼 &nbsp; Trabalhando como **Suporte Técnico** na <a href="https://www.mhnet.com.br"> ![Mhnet](https://img.shields.io/badge/-Mhnet%20Telcom-blue) </a>
+- 💼 &nbsp; Trabalhando como **Auxiliar de escritório**</a>
 - 📋 &nbsp; Acesse meu <a href="https://jeangondorek.github.io/jeangondorek/curriculo"> ![Currículo](https://img.shields.io/badge/-Currículo-333333)</a>
 - 🎮 &nbsp; Gosto muito de games  <a href="https://steamcommunity.com/id/jc6147"><img src="https://img.shields.io/badge/-Steam-333333?style=flat&logo=steam"/></a>
 - 📚 &nbsp; Procurando aprender mais sobre &nbsp; <br><br> ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=0071CC) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C) ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
@@ -20,11 +20,7 @@
 - **Mouse:** Gamer Redragon Sniper RGB 12400DPI 9 botões, M801-RGB
 - **Teclado:** Redragon Mitra Switch Azul, K551, Mecânico
 - **Monitor:** Gamer Acer Kg241q-s 23,6" 165hz, 0.5ms
-- **Monitor:** Acer V246HL 23.6", 75hz, 5ms
-
-<h3> 🚀 &nbsp;Minhas Skills em Treinamento </h3>
-
-<h6> 	⌨️ &nbsp;Atualmente brincando com Lua para servidores FIVEM de GTA 5 RolePlay</h6>
+- **Monitor:** Acer V246HL 23.6", 60hz, 5ms
 
 **Aplicações e Dados**
 
