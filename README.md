@@ -1,7 +1,7 @@
 # Hi 👋! My name is Jean and I'm a Computer Science student, from Brazil.
 
 #### 📘 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs,git,github,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs,git,github,typescript,java,angular)](https://skillicons.dev)
 
 #### ⚡ Learning
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
