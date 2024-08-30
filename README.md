@@ -16,7 +16,6 @@
 ![MsSQL](https://img.shields.io/badge/mssql-%23316192.svg?style=for-the-badge&logo=mssql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Solid](https://img.shields.io/static/v1?message=Solid&logo=solid&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)
 ![Tdd](https://img.shields.io/static/v1?message=Tdd&logo=tdd&label=&color=D70A53&logoColor=white&labelColor=&style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/static/v1?message=Clean-Architecture&logo=Clean%Architecture&label=&color=ED8B00&logoColor=white&labelColor=&style=for-the-badge)
