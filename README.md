@@ -29,3 +29,5 @@
  <img align="right" style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" src="https://github-readme-stats.vercel.app/api?username=jeangondorek&show_icons=true&theme=onedark" />
 <img align="left" style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeangondorek&langs_count=8&theme=onedark"/>
 </div>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/64748e6cc4ec366ad5b171db?variant=dark)](https://roadmap.sh)
