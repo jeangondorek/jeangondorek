@@ -18,7 +18,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Clean Architecture](https://img.shields.io/static/v1?message=Clean-Architecture&logo=Clean%Architecture&label=&color=ED8B00&logoColor=white&labelColor=&style=for-the-badge)
 ![Rest](https://img.shields.io/static/v1?message=REST&logo=REST&label=&color=23ed8&logoColor=white&labelColor=&style=for-the-badge)
-![SOLID](https://img.shields.io/static/v1?message=SOLID&logo=SOLID&label=&color=%2320232a&logoColor=2320232a&labelColor=&style=for-the-badge)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/64748e6cc4ec366ad5b171db?variant=dark)](https://roadmap.sh)
 
