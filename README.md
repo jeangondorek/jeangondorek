@@ -14,10 +14,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Solid](https://img.shields.io/static/v1?message=Solid&logo=solid&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)
-![Tdd](https://img.shields.io/static/v1?message=Tdd&logo=tdd&label=&color=D70A53&logoColor=white&labelColor=&style=for-the-badge)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Test-Driven Development](https://img.shields.io/static/v1?message=Test-Driven%20Development&logo=Test-Driven%20Development&label=&color=D70A53&logoColor=white&labelColor=&style=for-the-badge)
+![Microsoft SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Clean Architecture](https://img.shields.io/static/v1?message=Clean-Architecture&logo=Clean%Architecture&label=&color=ED8B00&logoColor=white&labelColor=&style=for-the-badge)
-![Rest](https://img.shields.io/static/v1?message=REST&logo=REST&label=&color=23ed8&logoColor=white&labelColor=&style=for-the-badge)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/64748e6cc4ec366ad5b171db?variant=dark)](https://roadmap.sh)
 
