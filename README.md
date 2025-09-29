@@ -7,12 +7,12 @@
 
 ## ✨ Sobre  
 
-Tenho experiência no desenvolvimento de **APIs escaláveis e performáticas**, integração de sistemas assíncronos com **Kafka** e atuação com **bancos de dados relacionais (SQL Server, PostgreSQL, MySQL)** e **NoSQL (MongoDB, Redis)**.  
+Tenho experiência no desenvolvimento de **APIs escaláveis e performáticas**, integração de sistemas assíncronos com **Kafka** e atuação com **bancos de dados relacionais (SQL Server, PostgreSQL)** e **NoSQL (MongoDB, Redis)**.  
 
 ### 🔹 Principais conhecimentos  
 - **Back-end:** Java, Quarkus, Spring Boot, Node.js, Python  
 - **Arquitetura & Integração:** Microsserviços, Sistemas Distribuídos, Kafka, API REST  
-- **Banco de Dados:** SQL Server, PostgreSQL, MySQL, MongoDB, Redis  
+- **Banco de Dados:** SQL Server, PostgreSQL, MongoDB, Redis  
 - **Cloud & DevOps:** Docker, AWS, Git, Linux  
 - **Front-end (apoio):** ReactJS, Next.js, TypeScript, Tailwind CSS  
 
