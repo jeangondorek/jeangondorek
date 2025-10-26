@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou Jean Canova  
-
 💻 **Back-end Developer** focado em **Java, Spring Boot, Quarkus, Kafka** e **Microservices**, com experiência em **SQL & NoSQL databases**, **Docker** e **Node.js**.  
 🎓 Estudante de **Ciência da Computação** na UFFS – Universidade Federal da Fronteira Sul (Chapecó, Brasil).  
 
