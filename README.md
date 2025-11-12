@@ -43,13 +43,6 @@ Tenho forte interesse por **arquitetura de software**, aplicando boas práticas 
 
 ---
 
-## 📚 Currently Learning  
-- **Arquitetura Limpa** & **SOLID**  
-- **TDD (Test-Driven Development)**  
-- **Orquestração de dados com Apache NiFi**  
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
