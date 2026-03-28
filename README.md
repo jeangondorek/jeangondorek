@@ -1,21 +1,24 @@
-💻 **Back-end Developer** focado em **Java, Spring Boot, Quarkus, Kafka** e **Microservices**, com experiência em **SQL & NoSQL databases**, **Docker** e **Node.js**.  
-🎓 Estudante de **Ciência da Computação** na UFFS – Universidade Federal da Fronteira Sul (Chapecó, Brasil).  
+### 💻 **Software Engineer** 
+Focused on the Java Ecosystem (Spring Boot, Quarkus), Microservices, and Distributed Systems. Experienced in high-demand API development, asynchronous integrations with Kafka, and both SQL & NoSQL databases.
 
+🎓 Computer Science student at UFFS – Federal University of Fronteira Sul (Chapecó, Brazil).
 ---
 
-## ✨ Sobre  
+## ✨ About Me
 
-Tenho experiência no desenvolvimento de **APIs escaláveis e performáticas**, integração de sistemas assíncronos com **Kafka** e atuação com **bancos de dados relacionais (SQL Server, PostgreSQL)** e **NoSQL (MongoDB, Redis)**.  
+I specialize in engineering scalable and high-performance APIs, leveraging event-driven architectures and optimizing database interactions. My background includes significant infrastructure optimization, such as reducing memory footprints and improving processing times for critical services.
 
-### 🔹 Principais conhecimentos  
-- **Back-end:** Java, Quarkus, Spring Boot, Node.js, Python  
-- **Arquitetura & Integração:** Microsserviços, Sistemas Distribuídos, Kafka, API REST  
-- **Banco de Dados:** SQL Server, PostgreSQL, MongoDB, Redis  
-- **Cloud & DevOps:** Docker, AWS, Git, Linux  
-- **Front-end (apoio):** ReactJS, Next.js, TypeScript, Tailwind CSS  
+###🔹Core Expertise
 
-### 🚀 Interesses  
-Tenho forte interesse por **arquitetura de software**, aplicando boas práticas como **Clean Code, SOLID, Design Patterns e Clean Architecture** para construir soluções **robustas, escaláveis e de fácil manutenção**.  
+- Backend: Java, Quarkus, Spring Boot, Node.js, Python.
+- Architecture & Integration: Microservices, Distributed Systems, Kafka, REST APIs.
+- Databases: SQL Server, PostgreSQL, MongoDB, Redis.
+- Cloud & DevOps: Docker, AWS (Foundation), Git, Linux.
+- Frontend (Support): React.js, Next.js, TypeScript, Tailwind CSS.
+
+### 🚀 Technical Interests
+
+I am passionate about Software Architecture and "Software Craftsmanship," applying Clean Code, SOLID, Design Patterns, and Clean Architecture to build robust and maintainable solutions.
 
 ---
 
@@ -40,16 +43,3 @@ Tenho forte interesse por **arquitetura de software**, aplicando boas práticas 
 ![Kafka](https://img.shields.io/badge/kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeangondorek&show_icons=true&theme=onedark" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeangondorek&layout=compact&langs_count=8&theme=onedark"/>
-</div>  
-
----
-
-⚡ Sempre em busca de desafios que envolvam **alta performance, escalabilidade** e **boas práticas de engenharia de software**.  
