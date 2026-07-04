@@ -8,7 +8,7 @@ Focused on the Java Ecosystem (Spring Boot, Quarkus), Microservices, and Distrib
 
 I specialize in engineering scalable and high-performance APIs, leveraging event-driven architectures and optimizing database interactions. My background includes significant infrastructure optimization, such as reducing memory footprints and improving processing times for critical services.
 
-###🔹Core Expertise
+### 🔹Core Expertise
 
 - Backend: Java, Quarkus, Spring Boot, Node.js, Python.
 - Architecture & Integration: Microservices, Distributed Systems, Kafka, REST APIs.
